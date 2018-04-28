@@ -72,7 +72,6 @@ def analysis_comment(text, init_data,
     sentiments = entities2sentiments_group(this_entities)
     return sentiments
 
-
 if __name__ == '__main__':
 
     use_nn = False
