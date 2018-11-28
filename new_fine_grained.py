@@ -196,7 +196,7 @@ def sentiment_analysis(sent, words, knowledgebase, sentiments, debug):
                     entityname, entitynum = _get_this_entity(target_num)
                     if entityname is not None:
                         sentiment = list()
-                        confidence = confidence * knowledgebase.probDA.get((description, target), 0)
+                        confidence = confidence * math.log(knowledgebase.probDA.get((description, target), 0) + 1)
                         sentiment.append({'entity': entityname,
                                           'attribute': target,
                                           'description': description,
@@ -208,7 +208,7 @@ def sentiment_analysis(sent, words, knowledgebase, sentiments, debug):
                     else:
                         in_sent = True
                         confidence = confidence * 2
-                confidence = confidence * knowledgebase.probDA.get((description, target), 0)
+                confidence = confidence * math.log(knowledgebase.probDA.get((description, target), 0) + 1)
                 sentiment.append({'entity': x,
                                   'attribute': target,
                                   'description': description,
@@ -255,7 +255,7 @@ def sentiment_analysis(sent, words, knowledgebase, sentiments, debug):
                     sonname, sonnum = _get_this_attribute(target_num)
                     if sonname is not None:
                         sentiment = list()
-                        confidence = confidence * knowledgebase.probDA.get((description, sonname), 0)
+                        confidence = confidence * math.log(knowledgebase.probDA.get((description, sonname), 0) + 1)
                         sentiment.append({'entity': target,
                                           'attribute': sonname,
                                           'description': description,
@@ -267,7 +267,7 @@ def sentiment_analysis(sent, words, knowledgebase, sentiments, debug):
                     else:
                         in_sent = True
                         confidence = confidence * 2
-                confidence = confidence * knowledgebase.probDA.get((description, x), 0)
+                confidence = confidence * math.log(knowledgebase.probDA.get((description, x), 0) + 1)
                 sentiment.append({'entity': target,
                                   'attribute': x,
                                   'description': description,
