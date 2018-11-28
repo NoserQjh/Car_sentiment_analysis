@@ -231,7 +231,6 @@ def sentiment_analysis(sent, words, knowledgebase, sentiments, debug):
             attributes = knowledgebase.pairEA.setdefault(target, None)
             sentiment = list()
             in_sent = False
-
             for x in attributes:
                 confidence = 1
                 if x in words:
