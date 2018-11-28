@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62" name="Default" comment="" />
+    <list default="true" id="cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/CarsSentimentSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CarsSentimentSystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnowledgeBase/汽车/KnowledgeBaseCache.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/KnowledgeBase/汽车/KnowledgeBaseCache.pkl" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,15 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1797864609">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="CarsSentimentSystem-dev" />
@@ -51,11 +63,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="349" column="44" selection-start-line="349" selection-start-column="44" selection-end-line="349" selection-end-column="44" />
-              <folding>
-                <element signature="e#342#363#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="498">
+              <caret line="359" column="16" lean-forward="true" selection-start-line="359" selection-start-column="16" selection-end-line="359" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -63,11 +72,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/knowledge_base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
+            <state relative-caret-position="5301">
               <caret line="281" column="46" selection-start-line="281" selection-start-column="46" selection-end-line="281" selection-end-column="46" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
-                <marker date="1543428422688" expanded="true" signature="13685:14174" ph="..." />
               </folding>
             </state>
           </provider>
@@ -145,24 +153,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="KnowledgeBase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="KnowledgeBase" type="462c0819:PsiDirectoryNode" />
-              <item name="汽车" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
-              <item name="libs" type="462c0819:PsiDirectoryNode" />
+              <item name="Car_sentiment_analysis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Car_sentiment_analysis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -270,7 +262,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.18956406" />
       <window_info id="Structure" order="1" weight="0.25" />
@@ -484,11 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
           <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="e#31#93#0" expanded="true" />
-            <element signature="e#3408#5843#0" />
-            <element signature="e#5875#6215#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -505,9 +491,7 @@
     <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbEA.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/NaProb.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/NaProb.txt" />
     <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbDA.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="130">
@@ -515,23 +499,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knowledge_base.py">
+    <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="281" column="46" selection-start-line="281" selection-start-column="46" selection-end-line="281" selection-end-column="46" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-            <marker date="1543428422688" expanded="true" signature="13685:14174" ph="..." />
-          </folding>
+        <state relative-caret-position="498">
+          <caret line="359" column="16" lean-forward="true" selection-start-line="359" selection-start-column="16" selection-end-line="359" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
+    <entry file="file://$PROJECT_DIR$/knowledge_base.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="349" column="44" selection-start-line="349" selection-start-column="44" selection-end-line="349" selection-end-column="44" />
+        <state relative-caret-position="5301">
+          <caret line="281" column="46" selection-start-line="281" selection-start-column="46" selection-end-line="281" selection-end-column="46" />
           <folding>
-            <element signature="e#342#363#0" expanded="true" />
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
