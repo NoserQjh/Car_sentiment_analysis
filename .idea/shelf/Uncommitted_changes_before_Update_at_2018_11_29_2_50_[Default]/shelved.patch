@@ -1,0 +1,188 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62\" name=\"Default\" comment=\"\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FUSProjectUsageTrigger\">\r\n    <session id=\"1597246145\">\r\n      <usages-collector id=\"statistics.lifecycle.project\">\r\n        <counts>\r\n          <entry key=\"project.closed\" value=\"3\" />\r\n          <entry key=\"project.open.time.10\" value=\"2\" />\r\n          <entry key=\"project.open.time.14\" value=\"1\" />\r\n          <entry key=\"project.open.time.4\" value=\"1\" />\r\n          <entry key=\"project.opened\" value=\"4\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.open\">\r\n        <counts>\r\n          <entry key=\"py\" value=\"2\" />\r\n          <entry key=\"txt\" value=\"4\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.open\">\r\n        <counts>\r\n          <entry key=\"PLAIN_TEXT\" value=\"4\" />\r\n          <entry key=\"Python\" value=\"2\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.extensions.edit\">\r\n        <counts>\r\n          <entry key=\"py\" value=\"983\" />\r\n        </counts>\r\n      </usages-collector>\r\n      <usages-collector id=\"statistics.file.types.edit\">\r\n        <counts>\r\n          <entry key=\"Python\" value=\"983\" />\r\n        </counts>\r\n      </usages-collector>\r\n    </session>\r\n  </component>\r\n  <component name=\"FavoritesManager\">\r\n    <favorites_list name=\"CarsSentimentSystem-dev\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"600\">\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/new_fine_grained.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"277\">\r\n              <caret line=\"349\" column=\"44\" selection-start-line=\"349\" selection-start-column=\"44\" selection-end-line=\"349\" selection-end-column=\"44\" />\r\n              <folding>\r\n                <element signature=\"e#342#363#0\" expanded=\"true\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/knowledge_base.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"126\">\r\n              <caret line=\"281\" column=\"46\" selection-start-line=\"281\" selection-start-column=\"46\" selection-end-line=\"281\" selection-end-column=\"46\" />\r\n              <folding>\r\n                <element signature=\"e#24#33#0\" expanded=\"true\" />\r\n                <marker date=\"1543428422688\" expanded=\"true\" signature=\"13685:14174\" ph=\"...\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"FindInProjectRecents\">\r\n    <findStrings>\r\n      <find>**</find>\r\n      <find>debug</find>\r\n      <find>UNIQUE</find>\r\n      <find>conf</find>\r\n      <find>TEXT_SEG_PATH</find>\r\n      <find>config</find>\r\n      <find>sorted_unique_words_va</find>\r\n      <find>_seg</find>\r\n      <find>sorted_unique_words</find>\r\n      <find>ltp</find>\r\n      <find>pid</find>\r\n      <find>seg</find>\r\n      <find>_segmentor</find>\r\n      <find>_LTP_DATA_DIR</find>\r\n      <find>s</find>\r\n      <find>sentiment_analysis</find>\r\n      <find>ltp_ini</find>\r\n      <find>grammar</find>\r\n      <find>_get_this</find>\r\n      <find>parser</find>\r\n      <find>print</find>\r\n      <find>Entity</find>\r\n      <find>sentiment</find>\r\n      <find>KnowledgeBaseConfig</find>\r\n      <find>KnowledgeBase</find>\r\n      <find>load_knowledge_base</find>\r\n      <find>豪运</find>\r\n      <find>ltp_init</find>\r\n      <find>sentiment.append</find>\r\n      <find>LOAD_FROM_CACHE</find>\r\n    </findStrings>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/Fine_grained/Src/Fine_grained/GRAMMAR_ANALYSIS.py\" />\r\n        <option value=\"$PROJECT_DIR$/temp.py\" />\r\n        <option value=\"$PROJECT_DIR$/knowledge_base.py\" />\r\n        <option value=\"$PROJECT_DIR$/new_fine_grained.py\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"-15\" />\r\n    <option name=\"y\" value=\"-15\" />\r\n    <option name=\"width\" value=\"3230\" />\r\n    <option name=\"height\" value=\"1830\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"KnowledgeBase\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"KnowledgeBase\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"汽车\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"CarsSentimentSystem-dev\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"libs\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n      <pane id=\"Scope\" />\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"RunManager\" selected=\"Python.new_fine_grained\">\r\n    <configuration name=\"FINE_GRAINED\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\r\n      <module name=\"CarsSentimentSystem\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$/Fine_grained/Src/Fine_grained\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/Fine_grained/Src/Fine_grained/FINE_GRAINED.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"new_fine_grained\" type=\"PythonConfigurationType\" factoryName=\"Python\" temporary=\"true\">\r\n      <module name=\"CarsSentimentSystem\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <envs>\r\n        <env name=\"PYTHONUNBUFFERED\" value=\"1\" />\r\n      </envs>\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"$PROJECT_DIR$\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"true\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"SCRIPT_NAME\" value=\"$PROJECT_DIR$/new_fine_grained.py\" />\r\n      <option name=\"PARAMETERS\" value=\"\" />\r\n      <option name=\"SHOW_COMMAND_LINE\" value=\"false\" />\r\n      <option name=\"EMULATE_TERMINAL\" value=\"false\" />\r\n      <option name=\"MODULE_MODE\" value=\"false\" />\r\n      <option name=\"REDIRECT_INPUT\" value=\"false\" />\r\n      <option name=\"INPUT_FILE\" value=\"\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration default=\"true\" type=\"tests\" factoryName=\"Unittests\">\r\n      <module name=\"CarsSentimentSystem\" />\r\n      <option name=\"INTERPRETER_OPTIONS\" value=\"\" />\r\n      <option name=\"PARENT_ENVS\" value=\"true\" />\r\n      <option name=\"SDK_HOME\" value=\"\" />\r\n      <option name=\"WORKING_DIRECTORY\" value=\"\" />\r\n      <option name=\"IS_MODULE_SDK\" value=\"false\" />\r\n      <option name=\"ADD_CONTENT_ROOTS\" value=\"true\" />\r\n      <option name=\"ADD_SOURCE_ROOTS\" value=\"true\" />\r\n      <option name=\"_new_additionalArguments\" value=\"&quot;&quot;\" />\r\n      <option name=\"_new_target\" value=\"&quot;.&quot;\" />\r\n      <option name=\"_new_targetType\" value=\"&quot;PATH&quot;\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <list>\r\n      <item itemvalue=\"Python.new_fine_grained\" />\r\n      <item itemvalue=\"Python.FINE_GRAINED\" />\r\n    </list>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"Python.new_fine_grained\" />\r\n        <item itemvalue=\"Python.FINE_GRAINED\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62\" name=\"Default\" comment=\"\" />\r\n      <created>1540451119036</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1540451119036</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-7\" y=\"-7\" width=\"1550\" height=\"838\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" sideWeight=\"0.4976415\" visible=\"true\" weight=\"0.18956406\" />\r\n      <window_info id=\"Structure\" order=\"1\" weight=\"0.25\" />\r\n      <window_info id=\"Favorites\" order=\"2\" sideWeight=\"0.5023585\" side_tool=\"true\" weight=\"0.18956406\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.5227606\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"7\" weight=\"0.32892805\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"8\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" order=\"9\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"10\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" order=\"0\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"Data View\" order=\"3\" />\r\n    </layout>\r\n    <layout-to-restore>\r\n      <window_info id=\"Favorites\" order=\"0\" side_tool=\"true\" />\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"1\" visible=\"true\" weight=\"0.12845215\" />\r\n      <window_info id=\"Structure\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"0\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"3\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"4\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"5\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"7\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"8\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"9\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"10\" />\r\n      <window_info anchor=\"right\" id=\"Data View\" order=\"0\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" order=\"1\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"3\" weight=\"0.25\" />\r\n    </layout-to-restore>\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"RECENTLY_FILTERED_USER_GROUPS\">\r\n                <collection />\r\n              </option>\r\n              <option name=\"RECENTLY_FILTERED_BRANCH_GROUPS\">\r\n                <collection />\r\n              </option>\r\n              <option name=\"COLUMN_ORDER\">\r\n                <list>\r\n                  <option value=\"0\" />\r\n                  <option value=\"1\" />\r\n                  <option value=\"2\" />\r\n                  <option value=\"3\" />\r\n                </list>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsContentAnnotationSettings\">\r\n    <option name=\"myLimit\" value=\"2678400000\" />\r\n  </component>\r\n  <component name=\"XDebuggerManager\">\r\n    <breakpoint-manager>\r\n      <default-breakpoints>\r\n        <breakpoint type=\"python-exception\">\r\n          <properties notifyOnTerminate=\"true\" exception=\"BaseException\">\r\n            <option name=\"notifyOnTerminate\" value=\"true\" />\r\n          </properties>\r\n        </breakpoint>\r\n      </default-breakpoints>\r\n    </breakpoint-manager>\r\n    <watches-manager>\r\n      <configuration name=\"PythonConfigurationType\">\r\n        <watch expression=\"sentiment\" />\r\n      </configuration>\r\n    </watches-manager>\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/global_var.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/demo_new.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"684\">\r\n          <caret line=\"19\" column=\"56\" selection-start-line=\"19\" selection-start-column=\"56\" selection-end-line=\"19\" selection-end-column=\"56\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/SA_v1/model_CNN.py\" />\r\n    <entry file=\"file://$PROJECT_DIR$/SA_v1/preprocess.py\" />\r\n    <entry file=\"file://$PROJECT_DIR$/SA_v1/sentiment_analysis.py\" />\r\n    <entry file=\"file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"392\">\r\n          <caret line=\"1590\" selection-start-line=\"1590\" selection-end-line=\"1590\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/sentiment_analysis.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"507\">\r\n          <caret line=\"32\" column=\"41\" selection-start-line=\"32\" selection-start-column=\"40\" selection-end-line=\"32\" selection-end-column=\"41\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/SA_v1/demo.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"540\">\r\n          <caret line=\"21\" column=\"52\" selection-start-line=\"21\" selection-start-column=\"13\" selection-end-line=\"21\" selection-end-column=\"52\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/PRETREAT.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"1764\">\r\n          <caret line=\"51\" column=\"23\" lean-forward=\"true\" selection-start-line=\"51\" selection-start-column=\"23\" selection-end-line=\"51\" selection-end-column=\"45\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"612\">\r\n          <caret line=\"17\" selection-start-line=\"17\" selection-end-line=\"17\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/demo.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"-1728\">\r\n          <caret line=\"18\" column=\"38\" selection-start-line=\"18\" selection-start-column=\"38\" selection-end-line=\"18\" selection-end-column=\"38\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/summary.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"180\">\r\n          <caret line=\"5\" column=\"3\" selection-start-line=\"5\" selection-start-column=\"3\" selection-end-line=\"5\" selection-end-column=\"3\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/SENTIMENT_ANALYSIS.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"253\">\r\n          <caret line=\"14\" column=\"13\" selection-start-line=\"14\" selection-start-column=\"13\" selection-end-line=\"14\" selection-end-column=\"13\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/10\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/CONFIG_LTP.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"752\">\r\n          <caret line=\"28\" selection-start-line=\"28\" selection-end-line=\"28\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/CONFIG.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"252\">\r\n          <caret line=\"52\" column=\"57\" selection-start-line=\"52\" selection-start-column=\"50\" selection-end-line=\"52\" selection-end-column=\"57\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/cws.txt_0\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/seg.txt_0\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Ltp/20\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/seg.txt_\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/cws.txt\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/seg.txt\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/FINE_GRAINED.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"274\">\r\n          <caret line=\"12\" selection-start-line=\"12\" selection-end-line=\"12\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/CONFIG.py\" />\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/Temp/text_cws.txt_0\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/Temp/text_seg.txt_0\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/Fine_grained/Src/Fine_grained/GRAMMAR_ANALYSIS.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"288\">\r\n          <caret line=\"21\" column=\"16\" selection-start-line=\"21\" selection-start-column=\"16\" selection-end-line=\"21\" selection-end-column=\"16\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/libs/va2aspect.txt\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"-1404\" />\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbTD.txt\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbWP.txt\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/fine_grained.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"608\">\r\n          <caret line=\"34\" selection-start-line=\"34\" selection-end-line=\"34\" />\r\n          <folding>\r\n            <element signature=\"e#31#93#0\" expanded=\"true\" />\r\n            <element signature=\"e#3408#5843#0\" />\r\n            <element signature=\"e#5875#6215#0\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/temp.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/preprocess.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"456\">\r\n          <caret line=\"25\" column=\"34\" selection-start-line=\"25\" selection-start-column=\"34\" selection-end-line=\"25\" selection-end-column=\"34\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbEA.txt\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/KnowledgeBase/汽车/NaProb.txt\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbDA.txt\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"130\">\r\n          <caret line=\"143343\" column=\"4\" selection-start-line=\"143343\" selection-start-column=\"4\" selection-end-line=\"143343\" selection-end-column=\"4\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/knowledge_base.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"126\">\r\n          <caret line=\"281\" column=\"46\" selection-start-line=\"281\" selection-start-column=\"46\" selection-end-line=\"281\" selection-end-column=\"46\" />\r\n          <folding>\r\n            <element signature=\"e#24#33#0\" expanded=\"true\" />\r\n            <marker date=\"1543428422688\" expanded=\"true\" signature=\"13685:14174\" ph=\"...\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/new_fine_grained.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"277\">\r\n          <caret line=\"349\" column=\"44\" selection-start-line=\"349\" selection-start-column=\"44\" selection-end-line=\"349\" selection-end-column=\"44\" />\r\n          <folding>\r\n            <element signature=\"e#342#363#0\" expanded=\"true\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 34897d75163ae224380a3af9fc424ee13ed27555)
++++ .idea/workspace.xml	(date 1543431010387)
+@@ -1,7 +1,11 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62" name="Default" comment="" />
++    <list default="true" id="cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62" name="Default" comment="">
++      <change beforePath="$PROJECT_DIR$/.idea/CarsSentimentSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CarsSentimentSystem.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++    </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -42,6 +46,14 @@
+         </counts>
+       </usages-collector>
+     </session>
++    <session id="649388168">
++      <usages-collector id="statistics.lifecycle.project">
++        <counts>
++          <entry key="project.open.time.0" value="1" />
++          <entry key="project.opened" value="1" />
++        </counts>
++      </usages-collector>
++    </session>
+   </component>
+   <component name="FavoritesManager">
+     <favorites_list name="CarsSentimentSystem-dev" />
+@@ -51,11 +63,8 @@
+       <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="277">
+-              <caret line="349" column="44" selection-start-line="349" selection-start-column="44" selection-end-line="349" selection-end-column="44" />
+-              <folding>
+-                <element signature="e#342#363#0" expanded="true" />
+-              </folding>
++            <state relative-caret-position="281">
++              <caret line="360" lean-forward="true" selection-start-line="360" selection-end-line="360" />
+             </state>
+           </provider>
+         </entry>
+@@ -63,11 +72,10 @@
+       <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/knowledge_base.py">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="126">
++            <state relative-caret-position="4743">
+               <caret line="281" column="46" selection-start-line="281" selection-start-column="46" selection-end-line="281" selection-end-column="46" />
+               <folding>
+                 <element signature="e#24#33#0" expanded="true" />
+-                <marker date="1543428422688" expanded="true" signature="13685:14174" ph="..." />
+               </folding>
+             </state>
+           </provider>
+@@ -117,6 +125,7 @@
+     </findStrings>
+   </component>
+   <component name="Git.Settings">
++    <option name="UPDATE_TYPE" value="MERGE" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+@@ -130,10 +139,10 @@
+     </option>
+   </component>
+   <component name="ProjectFrameBounds" extendedState="6">
+-    <option name="x" value="-15" />
+-    <option name="y" value="-15" />
+-    <option name="width" value="3230" />
+-    <option name="height" value="1830" />
++    <option name="x" value="-8" />
++    <option name="y" value="-8" />
++    <option name="width" value="1382" />
++    <option name="height" value="744" />
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+   <component name="ProjectView">
+@@ -145,24 +154,8 @@
+         <subPane>
+           <expand>
+             <path>
+-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
+-              <item name="KnowledgeBase" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
+-              <item name="KnowledgeBase" type="462c0819:PsiDirectoryNode" />
+-              <item name="汽车" type="462c0819:PsiDirectoryNode" />
+-            </path>
+-            <path>
+-              <item name="CarsSentimentSystem-dev" type="b2602c69:ProjectViewProjectNode" />
+-              <item name="CarsSentimentSystem-dev" type="462c0819:PsiDirectoryNode" />
+-              <item name="libs" type="462c0819:PsiDirectoryNode" />
++              <item name="Car_sentiment_analysis" type="b2602c69:ProjectViewProjectNode" />
++              <item name="Car_sentiment_analysis" type="462c0819:PsiDirectoryNode" />
+             </path>
+           </expand>
+           <select />
+@@ -269,16 +262,15 @@
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+-    <editor active="true" />
++    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+     <layout>
+-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.18956406" />
++      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.18898809" />
+       <window_info id="Structure" order="1" weight="0.25" />
+       <window_info id="Favorites" order="2" sideWeight="0.5023585" side_tool="true" weight="0.18956406" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+       <window_info anchor="bottom" id="Run" order="2" />
+-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5227606" />
++      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.41025642" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+       <window_info anchor="bottom" id="TODO" order="6" />
+@@ -484,11 +476,6 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="608">
+           <caret line="34" selection-start-line="34" selection-end-line="34" />
+-          <folding>
+-            <element signature="e#31#93#0" expanded="true" />
+-            <element signature="e#3408#5843#0" />
+-            <element signature="e#5875#6215#0" />
+-          </folding>
+         </state>
+       </provider>
+     </entry>
+@@ -505,9 +492,7 @@
+     <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbEA.txt">
+       <provider selected="true" editor-type-id="text-editor" />
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/NaProb.txt">
+-      <provider selected="true" editor-type-id="text-editor" />
+-    </entry>
++    <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/NaProb.txt" />
+     <entry file="file://$PROJECT_DIR$/KnowledgeBase/汽车/ProbDA.txt">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="130">
+@@ -515,23 +500,19 @@
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/knowledge_base.py">
++    <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="126">
+-          <caret line="281" column="46" selection-start-line="281" selection-start-column="46" selection-end-line="281" selection-end-column="46" />
+-          <folding>
+-            <element signature="e#24#33#0" expanded="true" />
+-            <marker date="1543428422688" expanded="true" signature="13685:14174" ph="..." />
+-          </folding>
++        <state relative-caret-position="281">
++          <caret line="360" lean-forward="true" selection-start-line="360" selection-end-line="360" />
+         </state>
+       </provider>
+     </entry>
+-    <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
++    <entry file="file://$PROJECT_DIR$/knowledge_base.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="277">
+-          <caret line="349" column="44" selection-start-line="349" selection-start-column="44" selection-end-line="349" selection-end-column="44" />
++        <state relative-caret-position="4743">
++          <caret line="281" column="46" selection-start-line="281" selection-start-column="46" selection-end-line="281" selection-end-column="46" />
+           <folding>
+-            <element signature="e#342#363#0" expanded="true" />
++            <element signature="e#24#33#0" expanded="true" />
+           </folding>
+         </state>
+       </provider>
