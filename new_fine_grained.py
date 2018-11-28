@@ -358,5 +358,3 @@ if __name__ == '__main__':
     result = analysis_comment(sentence, knowledgebase=knowledgebase, debug=True, file=sys.stdout)
     for x in result:
         print(x)
-
-''
