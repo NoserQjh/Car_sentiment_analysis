@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="cc2db5a1-a1ee-4b3f-9c83-bb8644f77d62" name="Default" comment="。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_fine_grained.py" beforeDir="false" afterPath="$PROJECT_DIR$/new_fine_grained.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KnowledgeBase/汽车/KnowledgeBaseCache.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/KnowledgeBase/汽车/KnowledgeBaseCache.pkl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,8 +66,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="359" column="16" selection-start-line="359" selection-start-column="16" selection-end-line="359" selection-end-column="16" />
+            <state relative-caret-position="-893">
+              <caret line="281" lean-forward="true" selection-start-line="281" selection-end-line="281" />
             </state>
           </provider>
         </entry>
@@ -184,9 +184,7 @@
           <option name="mySupportsDeletion" value="false" />
           <option name="myCanBeAbsent" value="false" />
           <option name="myId" value="UPDATED" />
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/CarsSentimentSystem.iml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/.idea/workspace.xml</PATH>
-          <PATH vcs="Git" revision="">$PROJECT_DIR$/KnowledgeBase/汽车/KnowledgeBaseCache.pkl</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/.gitignore</PATH>
           <PATH vcs="Git" revision="">$PROJECT_DIR$/new_fine_grained.py</PATH>
         </FILE-GROUP>
         <FILE-GROUP>
@@ -374,19 +372,33 @@
       <option name="presentableId" value="Default" />
       <updated>1540451119036</updated>
     </task>
+    <task id="LOCAL-00001" summary="。">
+      <created>1543431168814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543431168814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="。">
+      <created>1543431246723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1543431246723</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.18898809" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4976415" visible="true" weight="0.18898809" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5023585" side_tool="true" weight="0.18956406" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.5227606" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.52136755" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -632,8 +644,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/new_fine_grained.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="359" column="16" selection-start-line="359" selection-start-column="16" selection-end-line="359" selection-end-column="16" />
+        <state relative-caret-position="-893">
+          <caret line="281" lean-forward="true" selection-start-line="281" selection-end-line="281" />
         </state>
       </provider>
     </entry>

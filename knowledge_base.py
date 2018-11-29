@@ -1432,7 +1432,7 @@ class KnowledgeBase:
 def knowledge_base_init(product='汽车'):
     print("Knowledge Base Initializing for product %s..." % product)
     config = KnowledgeBaseConfig(product)
-    config.LOAD_FROM_CACHE = False
+    config.LOAD_FROM_CACHE = True
     if config.LOAD_FROM_CACHE and os.path.exists(config.CACHE_PATH):
         knowledge = KnowledgeBase.load_from_cache(config.CACHE_PATH)
         knowledge.write_js_variables(False)
