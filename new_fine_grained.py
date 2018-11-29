@@ -350,10 +350,28 @@ def analysis_comment(text, knowledgebase=None, debug=False, file=sys.stdout):
     return sentiments
 
 
+def update_index(sentiments, index):
+    for sentiment in sentiments:
+        key = (sentiment.get('entity'), sentiment.get('attribute'))
+        if index.get(key, None) is None:
+            index[key] = dict()
+            index.get(key)['POS'] = dict()
+            index.get(key)['NEG'] = dict()
+            index.get(key)['NEU'] = dict()
+        polarity = sentiment.get('polarity')
+        description = sentiment.get('description')
+        if index.get(key, None).get(polarity).get(description, None) is None:
+            index.get(key, None).get(polarity)[description] = list()
+        index.get(key, None).get(polarity).get(description, None).append(sentiment)
+    return index
+
+
 if __name__ == '__main__':
     ltp_init()
     knowledgebase = knowledge_base.knowledge_base_init()
-    sentence = '充沛的动力、炫酷的踏板造型再加上本田雷达家族运动基因的传承'
-    result = analysis_comment(sentence, knowledgebase=knowledgebase, debug=True, file=sys.stdout)
-    for x in result:
+    sentence = '充沛的动力、炫酷的踏板造型、烦人的噪音再加上本田雷达家族运动基因的传承'
+    sentiments = analysis_comment(sentence, knowledgebase=knowledgebase, debug=True, file=sys.stdout)
+    index = dict()
+    index = update_index(sentiments, index)
+    for x in sentiments:
         print(x)
